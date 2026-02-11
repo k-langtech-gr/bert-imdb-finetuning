@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+dist/
+build/
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Trainer outputs
+runs/
+bert-imdb/
+distilbert-imdb/
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
