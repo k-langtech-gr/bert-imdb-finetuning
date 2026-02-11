@@ -42,5 +42,3 @@ If you reuse the structure, please reference:
 - Hugging Face Transformers & Datasets
 - IMDb dataset (`stanfordnlp/imdb`)
 
-## License
-MIT (see `LICENSE`).
